@@ -1,1 +1,0 @@
-# yijing_buddhism_science

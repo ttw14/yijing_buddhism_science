@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300, 400');
+
+*{
+   box-sizing: border-box;
+   font-family: Roman;
+   color: #777
+
+}
+
+
+html, body {
+   margin: 0;
+   padding: 0;
+}
+
+.nav ul{
+    margin: 0;
+}
+
+.nav li{
+    display: inline;
+}
+
+.nav a{
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+
+}
+
+.main-nav li {
+    padding: 0 5%;
+}
+
+
+
+
+
+.main-nav {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.main-header{
+ background-color: rgba(0,0,0, 0.6);
+ background-image: url("bkg.jpg");
+ background-blend-mode: multiply;
+ background-size: cover;
+ padding-bottom: 30px;
+}
+
+
+.band-name {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+}
+
+.band-name-large {
+  font-size: 4em;
+}
+
+.content-section{
+    margin:1 em
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+.section-header{
+text-align: center;
+font-size: 2em;
+}
+
+.yijing{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+
+.imageProb{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1.5em;
+}
+
+.entropy{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dualexample{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.main-footer {
+  background-color: #10475a;
+  color: white;
+  font-size: 0.2em;
+  padding: .25em 0;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
